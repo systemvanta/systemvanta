@@ -118,14 +118,14 @@ A scalable cloud platform demonstrating modern DevOps and infrastructure practic
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=systemvanta&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-black-ten-90.vercel.app/api?username=systemvanta&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemvanta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-black-ten-90.vercel.app/api/top-langs/?username=systemvanta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
