@@ -82,3 +82,83 @@ Experience with:
 An intelligent document assistant using LLMs and Retrieval-Augmented Generation.
 
 **Tech Stack**
+- Python
+- FastAPI
+- OpenAI API
+- Vector Database
+- React
+- Docker
+
+---
+
+## 🧠 AI Agent Automation Platform
+
+An intelligent automation system that uses AI agents to execute workflows and assist users.
+
+**Tech Stack**
+- Python
+- LLM APIs
+- LangChain
+- FastAPI
+- Cloud Deployment
+
+---
+
+## ☁ Cloud-Native Application Platform
+
+A scalable cloud platform demonstrating modern DevOps and infrastructure practices.
+
+**Tech Stack**
+- AWS
+- Kubernetes
+- Terraform
+- Docker
+- GitHub Actions
+- CI/CD
+
+---
+
+# 📊 GitHub Statistics
+
+![System Vanta GitHub Stats](https://github-readme-stats.vercel.app/api?username=systemvanta&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemvanta&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=systemvanta&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/systemvanta/systemvanta/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-antonio-lopez-031b37425)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://nicholaslopez.vercel.app)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:nicholaslopez.us@gmail.com)
+
+---
+
+# 💡 Current Focus
+Artificial Intelligence
++
+Full-Stack Engineering
++
+Cloud Infrastructure
++
+Open Source Development
+
+---
+
+⭐ Building intelligent software.  
+🚀 Learning continuously.  
+🤖 Creating the future with AI.
