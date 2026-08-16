@@ -1,16 +1,18 @@
-# Hi, I'm SystemVanta 👋
+# 👋 Hi, I'm Stella Watson
 
-## Senior Full Stack Java Developer
+## Senior Full Stack Java Developer | Cloud | Microservices | AI Automation
 
-I am a software engineer specializing in building scalable enterprise applications, cloud-native solutions, and AI-powered automation systems.
+🚀 Software Engineer with **9+ years of experience** designing, developing, and delivering scalable enterprise applications.
 
-With 8+ years of experience, I focus on designing reliable backend architectures, developing modern full-stack applications, and solving complex engineering problems.
+I specialize in building **high-performance backend systems, microservices architectures, cloud-native applications, and AI-powered automation solutions** using modern technologies.
+
+My focus is creating reliable software solutions that improve scalability, performance, and business efficiency.
 
 ---
 
-## 🚀 Technical Expertise
+# 💻 Technical Expertise
 
-### Backend
+## Backend Development
 - Java
 - Spring Boot
 - Spring Framework
@@ -18,26 +20,27 @@ With 8+ years of experience, I focus on designing reliable backend architectures
 - RESTful APIs
 - Hibernate / JPA
 
-### Frontend
+## Frontend Development
 - React.js
 - JavaScript
 - HTML5
 - CSS3
 
-### Cloud & DevOps
+## Cloud & DevOps
 - AWS
 - Docker
 - Jenkins
 - CI/CD Pipelines
 - Git
+- Linux
 
-### Database
+## Database
 - SQL
-- PostgreSQL
 - MySQL
+- PostgreSQL
 - Database Optimization
 
-### AI & Automation
+## AI & Automation
 - Python
 - Artificial Intelligence
 - Machine Learning
@@ -46,38 +49,92 @@ With 8+ years of experience, I focus on designing reliable backend architectures
 
 ---
 
-## 💼 Professional Experience
+# 🚀 Featured Projects
 
-- 🏥 Built scalable healthcare platforms using Java, Spring Boot, Microservices, and AWS
-- 🏦 Developed secure financial applications and enterprise APIs
-- ⚡ Improved application performance through optimization and architecture improvements
-- 🔄 Automated deployment workflows using CI/CD practices
+## 🏥 Healthcare Microservices Platform
 
----
+**Enterprise Healthcare Application**
 
-## 🔥 Featured Projects
+Tech Stack:
+`Java` `Spring Boot` `Microservices` `React` `AWS` `Docker`
 
-### Enterprise Microservices Platform
-- Spring Boot microservices architecture
-- REST API development
-- Docker containerization
-- Cloud deployment
-
-### AI Automation Workflow
-- AI-powered process automation
-- API integrations
-- Workflow optimization
+Highlights:
+- Designed scalable microservices-based backend services.
+- Developed secure REST APIs for healthcare workflows.
+- Improved application scalability and maintainability.
+- Implemented containerized deployment workflows.
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI Automation Platform
 
-[GitHub Stats]
+**AI-powered Workflow Automation System**
+
+Tech Stack:
+`Python` `AI` `APIs` `Automation`
+
+Highlights:
+- Built intelligent automation workflows.
+- Integrated external APIs for process optimization.
+- Reduced repetitive manual tasks through automation.
+- Explored AI-driven productivity solutions.
 
 ---
 
-## 📫 Connect With Me
+## ☁️ Cloud-Native Application Framework
 
-LinkedIn: Your LinkedIn URL
+**Modern Enterprise Cloud Application**
 
-Email: Your Email
+Tech Stack:
+`Spring Boot` `AWS` `Docker` `CI/CD`
+
+Highlights:
+- Developed cloud-ready backend services.
+- Automated application deployment pipelines.
+- Improved reliability through DevOps practices.
+
+---
+
+# 💼 Professional Contributions
+
+### Enterprise Software Engineering
+- Developed **20+ enterprise applications** across healthcare and financial domains.
+- Built **100+ REST APIs** for scalable business solutions.
+- Designed **microservices architectures** for high-availability systems.
+- Improved application performance through optimization and clean architecture.
+
+### Engineering Practices
+- Implemented CI/CD automation using Jenkins and Docker.
+- Improved software quality through testing and code reviews.
+- Collaborated with Agile teams to deliver production-ready solutions.
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=systemvanta&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemvanta&layout=compact)
+
+---
+
+# 🛠 Currently Exploring
+
+- Generative AI Applications
+- AI Agents
+- Cloud Architecture
+- Distributed Systems
+- Advanced Microservices Patterns
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: stellawatson tt@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/stella-watson-42ba15258
+
+---
+
+⭐ Building scalable software, exploring AI innovation, and contributing to modern engineering solutions.
