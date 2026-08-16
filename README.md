@@ -112,9 +112,12 @@ Highlights:
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=systemvanta&show_icons=true&theme=transparent)
+# 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systemvanta&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=systemvanta&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemvanta&layout=compact&hide_border=true" height="180"/>
+</p>
 
 ---
 
