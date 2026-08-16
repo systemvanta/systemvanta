@@ -130,7 +130,7 @@ Highlights:
 
 # 🤝 Let's Connect
 
-📧 Email: stellawatson tt@gmail.com
+📧 Email: stellawatsontt@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/stella-watson-42ba15258
