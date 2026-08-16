@@ -110,12 +110,12 @@ Highlights:
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=systemvanta&show_icons=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=systemvanta&layout=compact" height="180"/>
-</p>
+- 🔹 Building enterprise Java and Spring Boot applications
+- 🔹 Developing microservices and REST API solutions
+- 🔹 Exploring AI automation and cloud-native technologies
+- 🔹 Contributing to open-source and personal software projects
 
 ---
 
