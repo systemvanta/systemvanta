@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Stella Watson
+# 👋 Hi
 
 ## Senior Full Stack Java Developer | Cloud | Microservices | AI Automation
 
