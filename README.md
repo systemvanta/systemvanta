@@ -1,216 +1,605 @@
-# 👋 Hi
+👋 Hi, I'm AI Forge
 
-I'm a software developer who enjoys building things, solving problems, and learning new technologies.
+AI Full-Stack Engineer
 
-I work on projects ranging from web applications and backend services to APIs, databases, automation, cloud-based systems, and developer tools.
+AI Agents · LLM Applications · AI Automation · RAG · Full-Stack Engineering
 
-I don't like limiting myself to one particular technology. I prefer choosing the right tools based on the problem, project requirements, and what I'm trying to learn.
+I build production-oriented AI systems that combine LLMs, intelligent agents, automation, APIs, databases, and modern full-stack applications.
 
----
+My focus is turning AI capabilities into reliable software that can reason, retrieve, use tools, execute workflows, and produce measurable results.
 
-## 💻 What I Enjoy Building
+⚡ Engineering Focus
 
-* Web applications
-* Backend services
-* REST APIs
-* Full-stack applications
-* Automation tools
-* Developer utilities
-* Database-driven applications
-* Cloud-based applications
-* Service integrations
-* Experimental projects
-* Tools that solve practical problems
+<table>
+<tr>
+<td width="50%">
 
----
+🤖 AI Agents
 
-## 🚀 Projects
+Tool-using agents, agent orchestration, memory, planning, and autonomous workflows.
 
-This profile contains a mixture of personal projects, experiments, prototypes, and development work.
+</td>
+<td width="50%">
 
-Some repositories focus on complete applications, while others are smaller projects created to explore a particular idea or solve a specific problem.
+🧠 LLM Applications
 
-You'll find projects involving:
+Production applications built around modern language models and structured AI workflows.
 
-* Application development
-* APIs and integrations
-* Backend engineering
-* Frontend development
-* Databases
-* Automation
-* Cloud development
-* System design
-* Developer tooling
-* New technologies and frameworks
+</td>
+</tr>
 
-Not every repository is intended to be a finished product. Some are experiments, learning projects, or proof-of-concepts.
+<tr>
+<td>
 
----
+🔎 RAG Systems
 
-## 🔄 Contribution Workflow
+Document ingestion, chunking, embeddings, vector search, hybrid retrieval, and reranking.
 
-When working on a project, I try to follow a simple and consistent development workflow.
+</td>
+<td>
 
-### 1. Understand
+⚙️ AI Automation
 
-I start by understanding the problem, requirements, existing code, and expected behavior before making changes.
+Intelligent workflows that connect AI models with APIs, databases, business systems, and external tools.
 
-### 2. Plan
+</td>
+</tr>
 
-I break the work into smaller tasks and think about the simplest approach that can solve the problem without unnecessary complexity.
+<tr>
+<td>
 
-### 3. Build
+💻 Full-Stack AI
 
-I implement changes incrementally and keep commits focused so that the development history remains easy to understand.
+Modern frontend applications connected to AI-powered backend services.
 
-### 4. Test
+</td>
+<td>
 
-I test changes locally, check edge cases, and make sure new changes don't unnecessarily break existing functionality.
+☁️ Production AI
 
-### 5. Review
+APIs, databases, containers, cloud infrastructure, observability, evaluation, and deployment.
 
-I review my own changes before pushing them, looking for bugs, unnecessary complexity, readability issues, and opportunities to improve the implementation.
+</td>
+</tr>
+</table>
 
-### 6. Commit & Push
+🧠 AI Stack
 
-I keep commits meaningful and descriptive, making it easier to understand what changed and why.
+<p align="center">
 
-### 7. Improve
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 
-After something works, I look for opportunities to simplify the code, improve performance, clean up technical debt, or make the project easier to maintain.
+</p>
 
----
+<p align="center">
 
-## 🤝 Contributing
 
-When contributing to an existing project, I prefer to understand the project's conventions before making changes.
 
-My general workflow is:
 
-* Read the documentation
-* Understand the existing structure
-* Review related code
-* Create a focused change
-* Test locally
-* Keep changes scoped to the issue
-* Write clear commits
-* Review the final diff
-* Open a pull request when appropriate
 
-I try to make contributions that fit naturally into the existing project rather than introducing unnecessary changes.
 
----
 
-## 📊 GitHub Activity
 
-I use GitHub as both a development workspace and a place to document what I'm learning.
 
-My activity includes:
 
-* Building and improving personal projects
-* Creating prototypes and proof-of-concepts
-* Experimenting with new technologies
-* Refactoring older projects
-* Fixing bugs
-* Improving existing implementations
-* Exploring different architectural approaches
-* Working with APIs and third-party services
-* Creating utilities and reusable components
-* Learning through hands-on development
-* Contributing to open-source projects
 
-Some repositories are active projects, while others represent experiments or things I built while learning.
 
----
+</p>
 
-## 🔍 Currently Exploring
+🛠️ Full-Stack Stack
 
-I'm constantly exploring different areas of software engineering rather than focusing on a single stack.
+Frontend
 
-Currently interested in:
 
-* Software architecture
-* System design
-* Distributed systems
-* Cloud computing
-* Application performance
-* Automation
-* Developer experience
-* Open-source software
-* Modern web development
-* Databases and data systems
-* AI-assisted development
-* Engineering productivity
 
----
 
-## 📚 Learning Through Projects
 
-One of the main reasons I build personal projects is to learn.
 
-Instead of only reading documentation or watching tutorials, I prefer creating something and learning from the problems that appear during development.
+Backend
 
-A project might start as a simple experiment and gradually become more complex as I explore:
 
-* Better architecture
-* Error handling
-* Authentication
-* Data persistence
-* Performance
-* Testing
-* Deployment
-* Monitoring
-* Scalability
 
-This makes GitHub an ongoing record of what I'm building, experimenting with, and learning.
 
----
 
-## 🛠️ Development Principles
 
-A few principles I try to follow:
 
-**Keep it simple.**
-Complexity should solve a real problem, not create one.
+Data
 
-**Build before overengineering.**
-It's easier to improve a working solution than to predict every future requirement.
 
-**Understand the fundamentals.**
-Tools and frameworks change, but strong engineering fundamentals remain useful.
 
-**Learn by doing.**
-Real projects expose problems that tutorials often don't.
 
-**Keep improving.**
-There's always something that can be made cleaner, faster, safer, or easier to maintain.
 
----
 
-## 🌱 Always Learning
+Infrastructure
 
-Software development changes constantly, so I try to stay curious and continue experimenting.
 
-Some repositories may represent things I'm actively working on, while others simply document something I wanted to understand.
 
-I enjoy the process of building, debugging, experimenting, improving, and trying again.
 
----
 
-## 📌 About This Profile
 
-This GitHub profile is a collection of things I'm building, learning, testing, and exploring.
+🚀 What I Build
 
-Some projects are polished.
+┌──────────────────────────────────────────────────────────┐
+│                    AI APPLICATIONS                        │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  AI Agents                  RAG Applications             │
+│  AI Automation              AI Copilots                  │
+│  Multi-Agent Systems        LLM SaaS                     │
+│  Document Intelligence      Intelligent APIs             │
+│  AI Workflow Systems        Developer Tools              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
-Some are experiments.
+🤖 AI Agent Systems
 
-Some started as small ideas.
+Agents capable of selecting tools, maintaining context, executing actions, and completing multi-step tasks.
 
-And some are simply here because I wanted to learn something new.
+🔎 RAG Applications
 
-Feel free to explore the repositories and see what I'm working on.
+Knowledge systems combining document processing, embeddings, retrieval, reranking, and LLM generation.
 
----
+⚙️ AI Automation
 
-⭐ **Build. Learn. Experiment. Improve.**
+AI-powered workflows that connect models with APIs, databases, applications, and external services.
+
+🧩 Multi-Agent Systems
+
+Specialized agents working together through structured orchestration and shared state.
+
+💻 AI SaaS
+
+Full-stack products where AI is integrated directly into the application's core workflow.
+
+⭐ Featured AI Projects
+
+🤖 AI Agent Platform
+
+Production-oriented agent system capable of reasoning over user requests, selecting tools, executing actions, and returning structured results.
+
+Architecture
+
+User
+  ↓
+Next.js
+  ↓
+FastAPI
+  ↓
+Agent Orchestrator
+  ↓
+LLM
+  ↓
+Tools / APIs
+  ↓
+Database
+  ↓
+Structured Response
+
+Stack
+
+Python FastAPI LangGraph OpenAI PostgreSQL Docker
+
+Capabilities
+
+Tool calling
+
+Agent state
+
+Multi-step execution
+
+Structured outputs
+
+Error handling
+
+Execution tracing
+
+Repository · Live Demo
+
+🔎 RAG Knowledge Assistant
+
+Knowledge assistant that processes documents, creates embeddings, retrieves relevant context, and generates grounded responses.
+
+Architecture
+
+Documents
+   ↓
+Ingestion
+   ↓
+Extraction
+   ↓
+Chunking
+   ↓
+Embeddings
+   ↓
+Vector Database
+   ↓
+Retrieval
+   ↓
+Reranking
+   ↓
+LLM
+   ↓
+Answer
+
+Stack
+
+Python FastAPI PostgreSQL Vector DB Embeddings LLM
+
+Capabilities
+
+Document ingestion
+
+Semantic search
+
+Hybrid retrieval
+
+Reranking
+
+Source-aware answers
+
+Retrieval evaluation
+
+Repository · Live Demo
+
+⚙️ AI Automation Engine
+
+Intelligent automation platform that transforms user requests into executable workflows using AI-powered decision making.
+
+Workflow
+
+Trigger
+   ↓
+AI Classification
+   ↓
+Decision
+   ↓
+Tool Selection
+   ↓
+API Execution
+   ↓
+Validation
+   ↓
+Result
+
+Stack
+
+Python FastAPI LangGraph Redis PostgreSQL Docker
+
+Capabilities
+
+Workflow orchestration
+
+Tool execution
+
+API integrations
+
+Conditional workflows
+
+Retry handling
+
+Execution monitoring
+
+Repository · Live Demo
+
+🧑‍💻 Multi-Agent Research System
+
+Multi-agent research workflow where specialized agents collaborate to collect, analyze, verify, and synthesize information.
+
+Architecture
+
+                 ┌── Research Agent
+                 │
+User → Supervisor ├── Analysis Agent
+                 │
+                 ├── Verification Agent
+                 │
+                 └── Writer Agent
+                         ↓
+                  Final Report
+
+Stack
+
+Python LangGraph LLMs FastAPI React
+
+Capabilities
+
+Agent orchestration
+
+Parallel execution
+
+Shared state
+
+Research synthesis
+
+Verification
+
+Structured reporting
+
+Repository · Live Demo
+
+🧠 AI SaaS Application
+
+Full-stack SaaS application using LLMs to automate a complex user workflow from input to actionable output.
+
+Architecture
+
+React / Next.js
+       ↓
+API Layer
+       ↓
+Application Service
+       ↓
+AI Service
+       ↓
+LLM + Tools
+       ↓
+PostgreSQL
+       ↓
+Result
+
+Stack
+
+Next.js TypeScript Python FastAPI PostgreSQL OpenAI
+
+Capabilities
+
+Authentication
+
+AI workflow
+
+Persistent user data
+
+Streaming responses
+
+API integration
+
+Production deployment
+
+Repository · Live Demo
+
+🛠️ AI Developer Assistant
+
+AI-powered developer tool that analyzes code, retrieves project context, generates solutions, and assists with engineering workflows.
+
+Stack
+
+TypeScript Python LLM RAG FastAPI React
+
+Capabilities
+
+Code analysis
+
+Repository context
+
+RAG
+
+Tool calling
+
+Structured outputs
+
+Developer workflow automation
+
+Repository · Live Demo
+
+🏗️ AI System Architecture
+
+flowchart TD
+    A[User] --> B[Frontend]
+    B --> C[API Layer]
+    C --> D[AI Orchestrator]
+
+    D --> E[LLM]
+    D --> F[Tools]
+    D --> G[Memory]
+    D --> H[Retriever]
+
+    H --> I[Vector Database]
+    F --> J[External APIs]
+    F --> K[Application Services]
+
+    K --> L[(Database)]
+
+    D --> M[Evaluation]
+    D --> N[Observability]
+
+    M --> O[Quality Metrics]
+    N --> P[Traces & Logs]
+
+🔄 How I Build AI Systems
+
+                    ┌─────────────┐
+                    │   Problem   │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │     Data    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Model / LLM │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │Context/Prompt│
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │Tools / APIs │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │Agent/Workflow│
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Evaluation  │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │Observability│
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Production  │
+                    └─────────────┘
+
+📊 AI Engineering
+
+I focus on making AI systems measurable and production-ready.
+
+Area
+
+Focus
+
+Agent Quality
+
+Task completion, tool selection, execution accuracy
+
+RAG Quality
+
+Retrieval relevance, grounding, answer quality
+
+Latency
+
+Model latency, retrieval latency, API latency
+
+Reliability
+
+Retries, fallbacks, validation, error handling
+
+Cost
+
+Token usage, model selection, caching
+
+Observability
+
+Traces, logs, execution monitoring
+
+Evaluation
+
+Automated and human evaluation
+
+Automation
+
+Workflow success and failure rates
+
+I don't rely on fabricated project metrics. Production metrics are added only when they can be measured from the actual system.
+
+🔨 Currently Building
+
+AI Agent Infrastructure
+
+Building reusable infrastructure for:
+
+Agent State · Tool Calling · Memory · Workflow Orchestration · Observability
+
+AI Automation Systems
+
+Building intelligent workflows that combine:
+
+LLMs → Decision Making → Tools → APIs → Databases → Execution
+
+AI Full-Stack Applications
+
+Building end-to-end applications using:
+
+Next.js + TypeScript + Python + FastAPI + PostgreSQL + LLMs
+
+🧪 Currently Exploring
+
+Advanced LangGraph
+        ↓
+Agent Architecture
+        ↓
+Multi-Agent Systems
+        ↓
+LLM Evaluation
+        ↓
+Model Evaluation
+        ↓
+AI Observability
+        ↓
+Production AI Infrastructure
+        ↓
+LLM Optimization
+        ↓
+AI System Design
+
+🧩 Engineering Principles
+
+Build measurable AI systems.
+
+Evaluate before optimizing.
+
+Prefer deterministic workflows when autonomy is unnecessary.
+
+Keep agents tool-driven and observable.
+
+Separate retrieval, reasoning, execution, and evaluation.
+
+Treat prompts and context as engineering components.
+
+Design AI systems for production, not just demos.
+
+Keep the application architecture independent from the model provider.
+
+📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
+
+</p>
+
+🚀 Building With AI
+
+LLMs
+ │
+ ├── RAG
+ │    ├── Ingestion
+ │    ├── Chunking
+ │    ├── Embeddings
+ │    ├── Retrieval
+ │    └── Reranking
+ │
+ ├── Agents
+ │    ├── Reasoning
+ │    ├── Tools
+ │    ├── Memory
+ │    └── State
+ │
+ ├── Automation
+ │    ├── Triggers
+ │    ├── Decisions
+ │    ├── Actions
+ │    └── Validation
+ │
+ └── Production
+      ├── Evaluation
+      ├── Observability
+      ├── Security
+      └── Deployment
+
+<p align="center">
+
+Building intelligent software, one system at a time.
+
+</p>
