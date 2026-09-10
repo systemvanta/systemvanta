@@ -27,7 +27,6 @@ Production applications built around modern language models and structured AI wo
 
 </td>
 </tr>
-
 <tr>
 <td>
 
@@ -44,7 +43,6 @@ Intelligent workflows that connect AI models with APIs, databases, business syst
 
 </td>
 </tr>
-
 <tr>
 <td>
 
@@ -66,140 +64,40 @@ APIs, databases, containers, cloud infrastructure, observability, evaluation, an
 🧠 AI Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=typescript" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nextjs" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs" />
 </p>
 
 <p align="center">
 
-
-
-
-
-
-
-
-
-
-
+OpenAI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Search · AI Agents · AI Automation
 
 </p>
 
 🛠️ Full-Stack Stack
 
+Layer
+
+Technologies
+
 Frontend
 
-
-
-
-
+React · Next.js · TypeScript · JavaScript
 
 Backend
 
+Python · FastAPI · Node.js
 
+AI
 
-
-
-
+OpenAI · LLMs · LangChain · LangGraph · RAG
 
 Data
 
-
-
-
-
+PostgreSQL · Vector Databases · Redis
 
 Infrastructure
 
-
-
-
-
-
-🚀 What I Build
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>🤖</h3>
-      <strong>AI Agents</strong>
-      <br />
-      <sub>Tool-using agents, state, memory & orchestration</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🔎</h3>
-      <strong>RAG Systems</strong>
-      <br />
-      <sub>Retrieval, embeddings, vector search & reranking</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>⚙️</h3>
-      <strong>AI Automation</strong>
-      <br />
-      <sub>Intelligent workflows, APIs & automated execution</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>🧠</h3>
-      <strong>AI Copilots</strong>
-      <br />
-      <sub>Context-aware assistants for real-world workflows</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <h3>🔗</h3>
-      <strong>Multi-Agent Systems</strong>
-      <br />
-      <sub>Specialized agents with structured collaboration</sub>
-    </td>
-    <td align="center">
-      <h3>📄</h3>
-      <strong>Document Intelligence</strong>
-      <br />
-      <sub>Extraction, processing, retrieval & analysis</sub>
-    </td>
-    <td align="center">
-      <h3>🌐</h3>
-      <strong>Intelligent APIs</strong>
-      <br />
-      <sub>AI-powered backend services and integrations</sub>
-    </td>
-    <td align="center">
-      <h3>💻</h3>
-      <strong>AI SaaS</strong>
-      <br />
-      <sub>Full-stack products built around AI workflows</sub>
-    </td>
-  </tr>
-</table>
-
-🤖 AI Agent Systems
-
-Agents capable of selecting tools, maintaining context, executing actions, and completing multi-step tasks.
-
-🔎 RAG Applications
-
-Knowledge systems combining document processing, embeddings, retrieval, reranking, and LLM generation.
-
-⚙️ AI Automation
-
-AI-powered workflows that connect models with APIs, databases, applications, and external services.
-
-🧩 Multi-Agent Systems
-
-Specialized agents working together through structured orchestration and shared state.
-
-💻 AI SaaS
-
-Full-stack products where AI is integrated directly into the application's core workflow.
+Docker · Git · CI/CD · Cloud
 
 ⭐ Featured AI Projects
 
@@ -337,7 +235,6 @@ Multi-agent research workflow where specialized agents collaborate to collect, a
 
 Architecture
 
-```mermaid
 flowchart TD
     A[User] --> B[Frontend]
     B --> C[API Layer]
@@ -360,7 +257,6 @@ flowchart TD
 
     M --> O[Quality Metrics]
     N --> P[Traces & Logs]
-```
 
 Stack
 
@@ -448,7 +344,6 @@ Repository · Live Demo
 
 🏗️ AI System Architecture
 
-```mermaid
 flowchart TD
     A[User] --> B[Frontend]
     B --> C[API Layer]
@@ -459,7 +354,7 @@ flowchart TD
     D --> G[Memory]
     D --> H[Retriever]
 
-    H --> I[Vector Database]
+    H --> I[(Vector Database)]
 
     F --> J[External APIs]
     F --> K[Application Services]
@@ -471,45 +366,18 @@ flowchart TD
 
     M --> O[Quality Metrics]
     N --> P[Traces & Logs]
-```
 
 🔄 How I Build AI Systems
 
-                    ┌─────────────┐
-                    │   Problem   │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │     Data    │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │ Model / LLM │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │Context/Prompt│
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │Tools / APIs │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │Agent/Workflow│
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │ Evaluation  │
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │Observability│
-                    └──────┬──────┘
-                           ↓
-                    ┌─────────────┐
-                    │ Production  │
-                    └─────────────┘
+flowchart TD
+    A[Problem] --> B[Data]
+    B --> C[Model / LLM]
+    C --> D[Context & Prompt]
+    D --> E[Tools & APIs]
+    E --> F[Agent / Workflow]
+    F --> G[Evaluation]
+    G --> H[Observability]
+    H --> I[Production]
 
 📊 AI Engineering
 
@@ -614,51 +482,80 @@ Keep the application architecture independent from the model provider.
 📈 GitHub Activity
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-
 </p>
 
 🚀 Building With AI
 
-LLMs
- │
- ├── RAG
- │    ├── Ingestion
- │    ├── Chunking
- │    ├── Embeddings
- │    ├── Retrieval
- │    └── Reranking
- │
- ├── Agents
- │    ├── Reasoning
- │    ├── Tools
- │    ├── Memory
- │    └── State
- │
- ├── Automation
- │    ├── Triggers
- │    ├── Decisions
- │    ├── Actions
- │    └── Validation
- │
- └── Production
-      ├── Evaluation
-      ├── Observability
-      ├── Security
-      └── Deployment
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🧠 LLMs & RAG
+
+Ingestion
+
+Chunking
+
+Embeddings
+
+Retrieval
+
+Reranking
+
+</td>
+<td width="50%" valign="top">
+
+🤖 Agents
+
+Reasoning
+
+Tools
+
+Memory
+
+State
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⚙️ Automation
+
+Triggers
+
+Decisions
+
+Actions
+
+Validation
+
+</td>
+<td width="50%" valign="top">
+
+🏭 Production AI
+
+Evaluation
+
+Observability
+
+Security
+
+Deployment
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 
