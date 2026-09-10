@@ -1,201 +1,322 @@
-👋 Hi, I'm AI Forge
+# 👋 Hi, I'm AI Forge
 
-AI Full-Stack Engineer
+### AI Full-Stack Engineer
 
-AI Agents · LLM Applications · AI Automation · RAG · Full-Stack Engineering
+I build AI systems that **reason, retrieve context, use tools, execute workflows, and integrate with real software systems**.
 
-I build production-oriented AI systems that combine LLMs, intelligent agents, automation, APIs, databases, and modern full-stack applications.
+My work sits at the intersection of:
 
-My focus is turning AI capabilities into reliable software that can reason, retrieve, use tools, execute workflows, and produce measurable results.
+`LLMs` · `AI Agents` · `RAG` · `AI Automation` · `Full-Stack Engineering` · `Production AI`
 
-⚡ Engineering Focus
+I focus on turning AI capabilities into reliable software — not just prototypes.
+
+---
+
+## ⚡ What I Build
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-🤖 AI Agents
+### 🤖 AI Agents
 
-Tool-using agents, agent orchestration, memory, planning, and autonomous workflows.
-
-</td>
-<td width="50%">
-
-🧠 LLM Applications
-
-Production applications built around modern language models and structured AI workflows.
+Tool-using agents, state management, planning, memory, orchestration, and multi-step execution.
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
-🔎 RAG Systems
+### 🔎 RAG Systems
 
-Document ingestion, chunking, embeddings, vector search, hybrid retrieval, and reranking.
-
-</td>
-<td>
-
-⚙️ AI Automation
-
-Intelligent workflows that connect AI models with APIs, databases, business systems, and external tools.
+Document ingestion, chunking, embeddings, hybrid retrieval, reranking, grounding, and evaluation.
 
 </td>
 </tr>
+
 <tr>
-<td>
+<td width="50%" valign="top">
 
-💻 Full-Stack AI
+### ⚙️ AI Automation
 
-Modern frontend applications connected to AI-powered backend services.
+AI-powered workflows connecting models with APIs, databases, SaaS platforms, and external tools.
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-☁️ Production AI
+### 🧠 LLM Applications
 
-APIs, databases, containers, cloud infrastructure, observability, evaluation, and deployment.
+Production applications built around structured LLM workflows, tool calling, streaming, and structured outputs.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 AI Full-Stack
+
+Modern web applications connecting React / Next.js interfaces with AI-powered backend services.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Production AI
+
+Evaluation, observability, security, reliability, caching, cost control, containers, and deployment.
 
 </td>
 </tr>
 </table>
 
-🧠 AI Stack
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs" />
-</p>
+# 🧰 Engineering Stack
 
-<p align="center">
+### Frontend
 
-OpenAI · LLMs · LangChain · LangGraph · RAG · Embeddings · Vector Search · AI Agents · AI Automation
+`React` `Next.js` `TypeScript` `JavaScript`
 
-</p>
+### Backend
 
-🛠️ Full-Stack Stack
+`Python` `FastAPI` `Node.js`
 
-Layer
+### AI
 
-Technologies
+`OpenAI` `LLMs` `LangChain` `LangGraph` `RAG` `Embeddings` `Tool Calling`
 
-Frontend
+### Data
 
-React · Next.js · TypeScript · JavaScript
+`PostgreSQL` `Redis` `Vector Databases`
 
-Backend
+### Infrastructure
 
-Python · FastAPI · Node.js
+`Docker` `Git` `CI/CD` `Cloud`
 
-AI
+---
 
-OpenAI · LLMs · LangChain · LangGraph · RAG
+# 🏗️ How I Build AI Systems
 
-Data
+```text
+                         ┌─────────────────────┐
+                         │        USER         │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   WEB APPLICATION   │
+                         │   React / Next.js   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      API LAYER      │
+                         │ FastAPI / Node.js   │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┴───────────────┐
+                    │                               │
+                    ▼                               ▼
+          ┌─────────────────┐             ┌─────────────────┐
+          │  AGENT RUNTIME  │             │ RETRIEVAL LAYER │
+          │    LangGraph    │             │ Hybrid Search   │
+          └────────┬────────┘             └────────┬────────┘
+                   │                               │
+                   ▼                               ▼
+          ┌─────────────────┐             ┌─────────────────┐
+          │      LLM        │             │ Vector / SQL DB │
+          │ Reason / Decide │             │   PostgreSQL    │
+          └────────┬────────┘             └─────────────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │  TOOL REGISTRY  │
+          │ APIs / Actions  │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │    EXECUTION    │
+          │ APIs / Services │
+          └────────┬────────┘
+                   │
+                   ▼
+          ┌─────────────────┐
+          │ OBSERVABILITY   │
+          │ Logs / Traces   │
+          │ Evaluation      │
+          └─────────────────┘
+```
 
-PostgreSQL · Vector Databases · Redis
+The goal is simple:
 
-Infrastructure
+**LLM intelligence → controlled execution → measurable results**
 
-Docker · Git · CI/CD · Cloud
+---
 
-⭐ Featured AI Projects
+# ⭐ Featured Systems
 
-🤖 AI Agent Platform
+## 01 — 🤖 AI Agent Platform
 
-Production-oriented agent system capable of reasoning over user requests, selecting tools, executing actions, and returning structured results.
+A production-oriented agent runtime that converts natural-language requests into multi-step actions using tools, state, structured outputs, and controlled execution.
 
-Architecture
+### Architecture
 
+```text
 User
-  ↓
+ ↓
 Next.js
-  ↓
+ ↓
 FastAPI
-  ↓
-Agent Orchestrator
-  ↓
+ ↓
+Agent Runtime
+ ↓
 LLM
-  ↓
-Tools / APIs
-  ↓
-Database
-  ↓
+ ↓
+Tool Selection
+ ↓
+Tool Execution
+ ↓
+Validation
+ ↓
 Structured Response
+```
 
-Stack
+### Core Engineering
 
-Python FastAPI LangGraph OpenAI PostgreSQL Docker
+* Tool calling
+* Agent state
+* Multi-step execution
+* Structured outputs
+* Tool validation
+* Error handling
+* Retry strategies
+* Execution tracing
+* Human-in-the-loop workflows
 
-Capabilities
+### Stack
 
-Tool calling
+`Python` `FastAPI` `LangGraph` `OpenAI` `PostgreSQL` `Redis` `Docker`
 
-Agent state
+### Engineering Focus
 
-Multi-step execution
+The system separates:
 
-Structured outputs
+```text
+Reasoning
+    ↓
+Decision
+    ↓
+Tool Selection
+    ↓
+Execution
+    ↓
+Validation
+```
 
-Error handling
+This keeps the LLM from directly controlling application infrastructure.
 
-Execution tracing
+### Demo
 
-Repository · Live Demo
+**01 — Agent workflow**
+**02 — Tool execution interface**
+**03 — Execution trace / monitoring**
+**04 — Final result / impact**
 
-🔎 RAG Knowledge Assistant
+---
 
-Knowledge assistant that processes documents, creates embeddings, retrieves relevant context, and generates grounded responses.
+# 02 — 🔎 RAG Knowledge System
 
-Architecture
+A retrieval-augmented knowledge system that transforms unstructured documents into searchable context and generates grounded answers.
 
+### Architecture
+
+```text
 Documents
-   ↓
+    ↓
 Ingestion
-   ↓
-Extraction
-   ↓
+    ↓
+Text Extraction
+    ↓
 Chunking
-   ↓
+    ↓
 Embeddings
-   ↓
+    ↓
 Vector Database
-   ↓
-Retrieval
-   ↓
+    ↓
+Hybrid Retrieval
+    ↓
 Reranking
-   ↓
+    ↓
+Context Assembly
+    ↓
 LLM
-   ↓
-Answer
+    ↓
+Grounded Answer
+```
 
-Stack
+### Core Engineering
 
-Python FastAPI PostgreSQL Vector DB Embeddings LLM
+* Document ingestion
+* Text extraction
+* Chunking
+* Metadata extraction
+* Embeddings
+* Vector search
+* Keyword search
+* Hybrid retrieval
+* Reranking
+* Context filtering
+* Source attribution
+* Retrieval evaluation
 
-Capabilities
+### Stack
 
-Document ingestion
+`Python` `FastAPI` `PostgreSQL` `Vector DB` `Embeddings` `LLMs`
 
-Semantic search
+### Engineering Focus
 
-Hybrid retrieval
+Rather than treating RAG as:
 
+```text
+Document → Embedding → LLM
+```
+
+the system treats retrieval as a pipeline:
+
+```text
+Ingestion
+    ↓
+Indexing
+    ↓
+Candidate Retrieval
+    ↓
 Reranking
+    ↓
+Context Selection
+    ↓
+Generation
+    ↓
+Evaluation
+```
 
-Source-aware answers
+### Demo
 
-Retrieval evaluation
+**01 — Document ingestion**
+**02 — Search / retrieval interface**
+**03 — Retrieved context + sources**
+**04 — Grounded answer**
 
-Repository · Live Demo
+---
 
-⚙️ AI Automation Engine
+# 03 — ⚙️ AI Automation Engine
 
-Intelligent automation platform that transforms user requests into executable workflows using AI-powered decision making.
+An AI-powered workflow engine that combines LLM decision-making with deterministic application logic and external tools.
 
-Workflow
+### Workflow
 
+```text
 Trigger
+   ↓
+Input Normalization
    ↓
 AI Classification
    ↓
@@ -207,83 +328,112 @@ API Execution
    ↓
 Validation
    ↓
+Retry / Fallback
+   ↓
 Result
+```
 
-Stack
+### Example
 
-Python FastAPI LangGraph Redis PostgreSQL Docker
+```text
+Incoming Request
+       ↓
+AI determines intent
+       ↓
+Selects appropriate action
+       ↓
+Calls external API
+       ↓
+Validates response
+       ↓
+Updates database
+       ↓
+Reports result
+```
 
-Capabilities
+### Core Engineering
 
-Workflow orchestration
+* Workflow orchestration
+* Conditional execution
+* Tool calling
+* API integrations
+* Retry handling
+* Failure recovery
+* Idempotent actions
+* Execution state
+* Monitoring
+* Audit trails
 
-Tool execution
+### Stack
 
-API integrations
+`Python` `FastAPI` `LangGraph` `Redis` `PostgreSQL` `Docker`
 
-Conditional workflows
+### Demo
 
-Retry handling
+**01 — Workflow builder**
+**02 — AI decision / execution**
+**03 — Workflow monitoring**
+**04 — Final result / business impact**
 
-Execution monitoring
+---
 
-Repository · Live Demo
+# 04 — 🧑‍🔬 Multi-Agent Research System
 
-🧑‍💻 Multi-Agent Research System
+A multi-agent research workflow where specialized agents collaborate to collect, analyze, verify, and synthesize information.
 
-Multi-agent research workflow where specialized agents collaborate to collect, analyze, verify, and synthesize information.
+### Architecture
 
-Architecture
+```text
+                    Research Request
+                           │
+                           ▼
+                    Research Planner
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+          Searcher      Analyst     Verifier
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                    Shared State
+                           │
+                           ▼
+                   Synthesis Agent
+                           │
+                           ▼
+                   Structured Report
+```
 
-flowchart TD
-    A[User] --> B[Frontend]
-    B --> C[API Layer]
-    C --> D[AI Orchestrator]
+### Core Engineering
 
-    D --> E[LLM]
-    D --> F[Tools]
-    D --> G[Memory]
-    D --> H[Retriever]
+* Agent specialization
+* Shared state
+* Parallel execution
+* Research planning
+* Information verification
+* Evidence aggregation
+* Final synthesis
 
-    H --> I[(Vector Database)]
+### Stack
 
-    F --> J[External APIs]
-    F --> K[Application Services]
+`Python` `LangGraph` `LLMs` `FastAPI` `React`
 
-    K --> L[(Database)]
+### Demo
 
-    D --> M[Evaluation]
-    D --> N[Observability]
+**01 — Research workflow**
+**02 — Agent execution**
+**03 — Evidence / verification**
+**04 — Final research report**
 
-    M --> O[Quality Metrics]
-    N --> P[Traces & Logs]
+---
 
-Stack
+# 05 — 💻 AI SaaS Application
 
-Python LangGraph LLMs FastAPI React
+A full-stack SaaS application that uses LLMs and structured AI workflows to transform user input into actionable output.
 
-Capabilities
+### Architecture
 
-Agent orchestration
-
-Parallel execution
-
-Shared state
-
-Research synthesis
-
-Verification
-
-Structured reporting
-
-Repository · Live Demo
-
-🧠 AI SaaS Application
-
-Full-stack SaaS application using LLMs to automate a complex user workflow from input to actionable output.
-
-Architecture
-
+```text
 React / Next.js
        ↓
 API Layer
@@ -297,268 +447,263 @@ LLM + Tools
 PostgreSQL
        ↓
 Result
+```
 
-Stack
+### Core Engineering
 
-Next.js TypeScript Python FastAPI PostgreSQL OpenAI
+* Authentication
+* User management
+* Persistent state
+* AI workflows
+* Streaming responses
+* API integrations
+* Structured outputs
+* Error handling
+* Production deployment
 
-Capabilities
+### Stack
 
-Authentication
+`Next.js` `TypeScript` `Python` `FastAPI` `PostgreSQL` `OpenAI`
 
-AI workflow
+### Demo
 
-Persistent user data
+**01 — Application interface**
+**02 — AI workflow**
+**03 — Processing / execution**
+**04 — Final output**
 
-Streaming responses
+---
 
-API integration
+# 06 — 🛠️ AI Developer Assistant
 
-Production deployment
+An AI-powered developer tool that understands repository context, retrieves relevant code, analyzes problems, and assists with engineering workflows.
 
-Repository · Live Demo
+### Architecture
 
-🛠️ AI Developer Assistant
-
-AI-powered developer tool that analyzes code, retrieves project context, generates solutions, and assists with engineering workflows.
-
-Stack
-
-TypeScript Python LLM RAG FastAPI React
-
-Capabilities
-
-Code analysis
-
-Repository context
-
+```text
+Developer
+    ↓
+React Interface
+    ↓
+API
+    ↓
+Repository Index
+    ↓
 RAG
-
-Tool calling
-
-Structured outputs
-
-Developer workflow automation
-
-Repository · Live Demo
-
-🏗️ AI System Architecture
-
-flowchart TD
-    A[User] --> B[Frontend]
-    B --> C[API Layer]
-    C --> D[AI Orchestrator]
-
-    D --> E[LLM]
-    D --> F[Tools]
-    D --> G[Memory]
-    D --> H[Retriever]
-
-    H --> I[(Vector Database)]
-
-    F --> J[External APIs]
-    F --> K[Application Services]
-
-    K --> L[(Database)]
-
-    D --> M[Evaluation]
-    D --> N[Observability]
-
-    M --> O[Quality Metrics]
-    N --> P[Traces & Logs]
-
-🔄 How I Build AI Systems
-
-flowchart TD
-    A[Problem] --> B[Data]
-    B --> C[Model / LLM]
-    C --> D[Context & Prompt]
-    D --> E[Tools & APIs]
-    E --> F[Agent / Workflow]
-    F --> G[Evaluation]
-    G --> H[Observability]
-    H --> I[Production]
-
-📊 AI Engineering
-
-I focus on making AI systems measurable and production-ready.
-
-Area
-
-Focus
-
-Agent Quality
-
-Task completion, tool selection, execution accuracy
-
-RAG Quality
-
-Retrieval relevance, grounding, answer quality
-
-Latency
-
-Model latency, retrieval latency, API latency
-
-Reliability
-
-Retries, fallbacks, validation, error handling
-
-Cost
-
-Token usage, model selection, caching
-
-Observability
-
-Traces, logs, execution monitoring
-
-Evaluation
-
-Automated and human evaluation
-
-Automation
-
-Workflow success and failure rates
-
-I don't rely on fabricated project metrics. Production metrics are added only when they can be measured from the actual system.
-
-🔨 Currently Building
-
-AI Agent Infrastructure
-
-Building reusable infrastructure for:
-
-Agent State · Tool Calling · Memory · Workflow Orchestration · Observability
-
-AI Automation Systems
-
-Building intelligent workflows that combine:
-
-LLMs → Decision Making → Tools → APIs → Databases → Execution
-
-AI Full-Stack Applications
-
-Building end-to-end applications using:
-
-Next.js + TypeScript + Python + FastAPI + PostgreSQL + LLMs
-
-🧪 Currently Exploring
-
-Advanced LangGraph
-        ↓
-Agent Architecture
-        ↓
-Multi-Agent Systems
-        ↓
-LLM Evaluation
-        ↓
-Model Evaluation
-        ↓
-AI Observability
-        ↓
-Production AI Infrastructure
-        ↓
-LLM Optimization
-        ↓
-AI System Design
-
-🧩 Engineering Principles
-
-Build measurable AI systems.
-
-Evaluate before optimizing.
-
-Prefer deterministic workflows when autonomy is unnecessary.
-
-Keep agents tool-driven and observable.
-
-Separate retrieval, reasoning, execution, and evaluation.
-
-Treat prompts and context as engineering components.
-
-Design AI systems for production, not just demos.
-
-Keep the application architecture independent from the model provider.
-
-📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent" />
-</p>
-
-🚀 Building With AI
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🧠 LLMs & RAG
-
-Ingestion
-
-Chunking
-
-Embeddings
-
-Retrieval
-
-Reranking
-
-</td>
-<td width="50%" valign="top">
-
-🤖 Agents
-
-Reasoning
-
-Tools
-
-Memory
-
-State
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-⚙️ Automation
-
-Triggers
-
-Decisions
-
-Actions
-
+    ↓
+LLM
+    ↓
+Tool Calling
+    ↓
+Analysis / Solution
+```
+
+### Core Engineering
+
+* Repository indexing
+* Code chunking
+* Semantic retrieval
+* Context selection
+* Code analysis
+* Tool calling
+* Structured responses
+* Developer workflow automation
+
+### Stack
+
+`TypeScript` `Python` `FastAPI` `React` `RAG` `LLMs`
+
+### Demo
+
+**01 — Repository analysis**
+**02 — Context retrieval**
+**03 — AI reasoning**
+**04 — Generated solution**
+
+---
+
+# 📊 AI Engineering
+
+I treat AI systems as software systems that need to be measured.
+
+| Area              | What I Measure                                        |
+| ----------------- | ----------------------------------------------------- |
+| **Agent Quality** | Task completion · Tool selection · Execution accuracy |
+| **RAG Quality**   | Retrieval relevance · Grounding · Answer quality      |
+| **Latency**       | Model · Retrieval · API · End-to-end latency          |
+| **Reliability**   | Failures · Retries · Fallbacks · Validation           |
+| **Cost**          | Token usage · Model selection · Caching               |
+| **Observability** | Logs · Traces · Execution state                       |
+| **Evaluation**    | Automated tests · LLM evaluation · Human evaluation   |
+| **Automation**    | Workflow success · Failure rate · Execution time      |
+
+> I don't use fabricated project metrics. Production metrics are added only when they can be measured from the actual system.
+
+---
+
+# 🔬 AI System Evaluation
+
+A production AI system should answer more than:
+
+**"Does the demo work?"**
+
+I evaluate:
+
+```text
+                AI System
+                    │
+       ┌────────────┼────────────┐
+       ▼            ▼            ▼
+   Quality       Reliability    Cost
+       │            │            │
+       ▼            ▼            ▼
+   Accuracy      Failures      Tokens
+   Grounding     Retries       Latency
+   Relevance     Recovery      Model Cost
+       │            │            │
+       └────────────┼────────────┘
+                    ▼
+             Production Signal
+```
+
+---
+
+# 👁️ AI Observability
+
+For agentic systems, visibility into the execution path matters as much as the final answer.
+
+```text
+User Request
+     ↓
+Agent Run
+     ↓
+LLM Call
+     ↓
+Tool Selection
+     ↓
+Tool Execution
+     ↓
+Database / API
+     ↓
 Validation
+     ↓
+Final Response
+```
 
-</td>
-<td width="50%" valign="top">
+I focus on making these steps traceable and debuggable.
 
-🏭 Production AI
+---
 
+# 🔐 AI Security
+
+AI systems need application-level security as well as model-level controls.
+
+Key areas:
+
+* Authentication
+* Authorization
+* Prompt injection
+* Tool permissions
+* Input validation
+* Output validation
+* Secret management
+* Rate limiting
+* Data isolation
+* Audit logging
+
+The principle:
+
+> **The model can decide what it wants to do. The application decides what it is allowed to do.**
+
+---
+
+# 🧩 Engineering Principles
+
+### 01 — Evaluate before optimizing
+
+Measure the system before changing it.
+
+### 02 — Deterministic when possible
+
+Use agents where reasoning is valuable. Use deterministic workflows where rules are enough.
+
+### 03 — Tools over unrestricted autonomy
+
+Agents should interact with the world through controlled tools.
+
+### 04 — Separate concerns
+
+Keep:
+
+```text
+Retrieval
+Reasoning
+Execution
 Evaluation
+```
 
-Observability
+as independently testable components.
 
-Security
+### 05 — Treat context as infrastructure
 
-Deployment
+Prompts, memory, retrieved documents, tool results, and state all influence system behavior.
 
-</td>
-</tr>
-</table>
+### 06 — Design for failure
+
+AI systems can fail in unexpected ways. Retries, validation, fallbacks, and observability are part of the architecture.
+
+### 07 — Stay model-independent
+
+Application architecture should not be tightly coupled to a single model provider.
+
+---
+
+# 🔨 Currently Building
+
+### Agent Infrastructure
+
+`Agent State` · `Tool Calling` · `Memory` · `Workflow Orchestration` · `Observability`
+
+### AI Automation
+
+`LLM → Decision → Tools → APIs → Validation → Execution`
+
+### AI Full-Stack
+
+`Next.js → FastAPI → AI Services → PostgreSQL → Production`
+
+---
+
+# 🧪 Current Engineering Focus
+
+`LangGraph`
+
+`Agent Architecture`
+
+`Agent Evaluation`
+
+`AI Observability`
+
+`Multi-Agent Systems`
+
+`LLM Optimization`
+
+`Production AI Infrastructure`
+
+`AI System Design`
+
+---
+
+# 🚀 Let's Build
+
+I'm interested in building software where AI is more than a chat interface.
+
+**Agents. Retrieval. Automation. APIs. Data. Full-stack applications. Production infrastructure.**
+
+---
 
 <p align="center">
 
-Building intelligent software, one system at a time.
+### Building intelligent software, one system at a time.
 
 </p>
