@@ -448,6 +448,7 @@ Repository · Live Demo
 
 🏗️ AI System Architecture
 
+```mermaid
 flowchart TD
     A[User] --> B[Frontend]
     B --> C[API Layer]
@@ -459,6 +460,7 @@ flowchart TD
     D --> H[Retriever]
 
     H --> I[Vector Database]
+
     F --> J[External APIs]
     F --> K[Application Services]
 
@@ -469,6 +471,7 @@ flowchart TD
 
     M --> O[Quality Metrics]
     N --> P[Traces & Logs]
+```
 
 🔄 How I Build AI Systems
 
