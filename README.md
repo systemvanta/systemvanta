@@ -125,17 +125,61 @@ Infrastructure
 
 🚀 What I Build
 
-┌──────────────────────────────────────────────────────────┐
-│                    AI APPLICATIONS                        │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  AI Agents                  RAG Applications             │
-│  AI Automation              AI Copilots                  │
-│  Multi-Agent Systems        LLM SaaS                     │
-│  Document Intelligence      Intelligent APIs             │
-│  AI Workflow Systems        Developer Tools              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <strong>AI Agents</strong>
+      <br />
+      <sub>Tool-using agents, state, memory & orchestration</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔎</h3>
+      <strong>RAG Systems</strong>
+      <br />
+      <sub>Retrieval, embeddings, vector search & reranking</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️</h3>
+      <strong>AI Automation</strong>
+      <br />
+      <sub>Intelligent workflows, APIs & automated execution</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠</h3>
+      <strong>AI Copilots</strong>
+      <br />
+      <sub>Context-aware assistants for real-world workflows</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <h3>🔗</h3>
+      <strong>Multi-Agent Systems</strong>
+      <br />
+      <sub>Specialized agents with structured collaboration</sub>
+    </td>
+    <td align="center">
+      <h3>📄</h3>
+      <strong>Document Intelligence</strong>
+      <br />
+      <sub>Extraction, processing, retrieval & analysis</sub>
+    </td>
+    <td align="center">
+      <h3>🌐</h3>
+      <strong>Intelligent APIs</strong>
+      <br />
+      <sub>AI-powered backend services and integrations</sub>
+    </td>
+    <td align="center">
+      <h3>💻</h3>
+      <strong>AI SaaS</strong>
+      <br />
+      <sub>Full-stack products built around AI workflows</sub>
+    </td>
+  </tr>
+</table>
 
 🤖 AI Agent Systems
 
