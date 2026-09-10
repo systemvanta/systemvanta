@@ -337,15 +337,30 @@ Multi-agent research workflow where specialized agents collaborate to collect, a
 
 Architecture
 
-                 ┌── Research Agent
-                 │
-User → Supervisor ├── Analysis Agent
-                 │
-                 ├── Verification Agent
-                 │
-                 └── Writer Agent
-                         ↓
-                  Final Report
+```mermaid
+flowchart TD
+    A[User] --> B[Frontend]
+    B --> C[API Layer]
+    C --> D[AI Orchestrator]
+
+    D --> E[LLM]
+    D --> F[Tools]
+    D --> G[Memory]
+    D --> H[Retriever]
+
+    H --> I[(Vector Database)]
+
+    F --> J[External APIs]
+    F --> K[Application Services]
+
+    K --> L[(Database)]
+
+    D --> M[Evaluation]
+    D --> N[Observability]
+
+    M --> O[Quality Metrics]
+    N --> P[Traces & Logs]
+```
 
 Stack
 
